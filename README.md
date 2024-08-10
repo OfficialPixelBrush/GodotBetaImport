@@ -1,6 +1,7 @@
 # GodotMCBetaImport
  A Minecraft Beta 1.7.3 Visualzier written in Godot
- This project has been superseded by [Betrock](https://github.com/OfficialPixelBrush/Betrock)!
+ 
+ **This project has been superseded by [Betrock](https://github.com/OfficialPixelBrush/Betrock)!**
 
 ## Purpose
 This Application is meant to be nothing more than an experiment to see if I can successfully load and display Minecraft Beta 1.7.3 McRegion files manually.
